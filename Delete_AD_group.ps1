@@ -9,7 +9,7 @@
 Import-Module ActiveDirectory
 
 #Location for AD group Path
-$OU_Path = ""
+#$OU_Path = ""
 
 #Import Files using txt file
 #$Group_List = Get-Content -Path D:\group_list.txt
