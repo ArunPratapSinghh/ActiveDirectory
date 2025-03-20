@@ -25,4 +25,4 @@ foreach($Group in $Group_List)
       
     
 }
-Write-Host "AD group has been created" -ForgroundColor Green
+Write-Host "User infomation has been saved in C:\temp folder." -ForgroundColor Green
