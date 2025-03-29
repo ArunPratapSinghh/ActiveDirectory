@@ -20,7 +20,7 @@ foreach($VM in $List)
                  else{
 
                     Write-Host "Google chrome update has been started on server $VM" -Forgroundcolor Cyan
-                    Start-Process -Path C:\temp\google_chrome.exe -ArgumentList "\Silent \norestart"
+                    Start-Process -Path C:\temp\google_chrome.exe -ArgumentList "\Silent \norestart" -NoNewWindow
                     Start-sleep -second 10
                     #referesh 
                     $Latest_version =(Get-package -Name "Google Chrome").Verion
