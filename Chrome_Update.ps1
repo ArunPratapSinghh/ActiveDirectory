@@ -3,6 +3,9 @@
 #Server list for chrome update
 $List = Get-content -path C:\temp\Server-list.txt
 
+#Google chrome latest version i.e.134.6889.0.177
+$Software_directory = "C:\temp\Software\Chrome\Googlechrome.exe"
+
 $Current_version = Read-Host "enter the google chrome current version(in number)"
 
 #for loop
@@ -20,7 +23,7 @@ foreach($VM in $List)
                  else{
 
                     Write-Host "Google chrome update has been started on server $VM" -Forgroundcolor Cyan
-                    Start-Process -Path C:\temp\google_chrome.exe -ArgumentList "\Silent \norestart" -NoNewWindow
+                    Start-Process -Path $Software_directory -ArgumentList "\Silent \norestart" -NoNewWindow
                     Start-sleep -second 10
                     #referesh 
                     $Latest_version =(Get-package -Name "Google Chrome").Verion
