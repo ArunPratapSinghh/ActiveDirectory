@@ -33,7 +33,6 @@ foreach($VM in $List)
             Write-Host "Server  $VM is not pinging.Kindly check the list "
         }
 
-
-
-       
 }
+
+Write-Host "Script has been completed" -ForgroundColor Yellow
