@@ -2,7 +2,7 @@
 #Title: This Script has been made to Create to find the users information in  Active diretory using Powershell   #     
 # Date: 20 March 2024                                                                                            #
 # Author: Arun Pratap Singh                                                                                      #
-# Modified Date: 20 March 2024                                                                                   #
+# Modified Date: 20 March 2025                                                                                   #
 ##################################################################################################################
 
 #Import Active Directory Module
