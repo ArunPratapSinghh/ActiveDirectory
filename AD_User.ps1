@@ -2,7 +2,7 @@
 #Title: This Script has been made to Create the AD user in Active diretory using Powershell   #     
 # Date: 13 March 2025                                                                         #
 # Author: Arun Pratap Singh                                                                    #
-# Modified Date: 13 March 2025                                                                 #
+# Modified Date: 14 March 2025                                                                 #
 ################################################################################################
 
 #Import Active Directory Module
