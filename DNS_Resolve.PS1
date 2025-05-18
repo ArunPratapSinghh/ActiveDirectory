@@ -1,5 +1,5 @@
 
-####DNS Resolve ##########
+####DNS Resolve ############
 
 Resolve-DNS -Name $Server_Name
 
