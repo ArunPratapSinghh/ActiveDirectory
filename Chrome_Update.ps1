@@ -1,4 +1,4 @@
-######Chrome Update#########333#######
+######Chrome Update#########333#########
 
 #Server list for chrome update
 $List = Get-content -path C:\temp\Server-list.txt
