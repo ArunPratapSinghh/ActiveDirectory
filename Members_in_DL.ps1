@@ -1,4 +1,4 @@
-###User_Details in AD ###
+######User_Details in AD ######
 
 #enter the Name of DL
 $Name = Read-host "Enter the name of DL you want to find the members"
