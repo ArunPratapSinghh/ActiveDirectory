@@ -5,7 +5,7 @@
 # Modified Date: 13 may 2025                                                                 #
 ################################################################################################
 
-#Import Active Directory Module
+##Import Active Directory Module
 Import-Module ActiveDirectory
 
 #Location for AD group Path
