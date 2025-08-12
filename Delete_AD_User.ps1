@@ -1,12 +1,12 @@
 
 ################################################################################################
-#Title: This Script has been made for Delete_AD_group in Active diretory using Powershell   #     
+#Title: This Script has been made for Delete_AD_group in Active diretory using Powershell      #     
 # Date: 14 March 2024                                                                          #
 # Author: Arun Pratap Singh                                                                    #
-# Modified Date: 03 June 2025                                                                 #
+# Modified Date: 03 June 2025                                                                  #
 ################################################################################################
 
-#Import Active Directory Module
+##Import Active Directory Module
 Import-Module ActiveDirectory
 
 #list of servers
