@@ -1,8 +1,8 @@
 ################################################################################################
 #Title: This Script has been made to Create the AD Group in Active diretory using Powershell   #     
 # Date: 13 MMAAY 2025                                                                          #
-# Author: Arun Pratap Singh                                                                    #
-# Modified Date: 13 may 2025                                                                 #
+# Author: Arun Pratap                                                                    #
+# Modified Date: 13 May 2025                                                                 #
 ################################################################################################
 
 ##Import Active Directory Module
