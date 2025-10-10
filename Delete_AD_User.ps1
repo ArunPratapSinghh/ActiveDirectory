@@ -1,7 +1,7 @@
 
 ################################################################################################
 #Title: This Script has been made for Delete_AD_group in Active diretory using Powershell      #     
-# Date: 14 March 2024                                                                          #
+# Date: 14 March 2025                                                                          #
 # Author: Arun Pratap Singh                                                                    #
 # Modified Date: 03 June 2025                                                                  #
 ################################################################################################
